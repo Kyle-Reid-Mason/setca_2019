@@ -1,4 +1,6 @@
-# This is my distance code
+"""
+Functions and script for geometry analysis
+"""
 
 
 import numpy
